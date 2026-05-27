@@ -54,4 +54,4 @@ cd estudo-composicao2
 3. Compile e execute a classe principal (geralmente com método `main`) através do seu terminal ou de uma IDE como IntelliJ IDEA ou Eclipse.
 
 ---
-Feito com ☕ por [Erik](https://github.com)
+Feito com ☕ por [Erik](https://github.com/erikprogramacao)
